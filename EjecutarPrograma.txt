@@ -1,0 +1,6 @@
+Para ejecutar el programa debes:
+
+1. Acceder al package "RMI" y ejecutar "Servidor.java"
+2. Acceder al package "grafica", dentro al package "ventanas" y ejecutar "VentanaPrincipal.java"
+
+Si deseas persistir los datos en una DBMS, entonces debes ingresar al txt "config.properties" e intercambiar los '#' en "PoolConexiones" y en "Fabrica"
