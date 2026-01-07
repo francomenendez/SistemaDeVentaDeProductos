@@ -4,3 +4,4 @@ Para ejecutar el programa debes:
 2. Acceder al package "grafica", dentro al package "ventanas" y ejecutar "VentanaPrincipal.java"
 
 Si deseas persistir los datos en una DBMS, entonces debes ingresar al txt "config.properties" e intercambiar los '#' en "PoolConexiones" y en "Fabrica"
+Ademas ejecutar "main.java" el cual crea la database y las respectivas tablas (el resto de los main fueron creados para testear las funciones,  en sus respectivas etapas de desarrollo)

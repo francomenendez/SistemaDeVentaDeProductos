@@ -21,3 +21,5 @@ La aplicación incluye manejo de concurrencia mediante Pool de Conexiones, tanto
 -Implementación completa de los ejercicios prácticos 4 y 5 del curso.
 
 Proyecto desarrollado con fines académicos, enfocado en buenas prácticas de diseño, separación de responsabilidades y escalabilidad.
+
+Si deseas descargar y ejecutar el programa recomiendo que leas el archivo "EjecutarPrograma.txt"
